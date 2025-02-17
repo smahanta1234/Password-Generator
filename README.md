@@ -27,10 +27,13 @@ Example Output:
 
 
   Welcome to the Password Generator!
+  
   How many letters would you like in your password?
   > 5
+  
   How many symbols would you like?
   > 2
+  
   How many numbers would you like?
   > 3
 
@@ -40,8 +43,8 @@ Example Output:
   Random password is:
   D!1b&E32Ac
   
-  Some possible suggestions for upgrades:
+Some possible suggestions for upgrades:
 
-1. Add a GUI version using Tkinter.
-2. Include an option for saving passwords securely.
-3. Implement stronger encryption for password storage.
+  1.Add a GUI version using Tkinter.  
+  2.Include an option for saving passwords securely.
+  3.Implement stronger encryption for password storage.
