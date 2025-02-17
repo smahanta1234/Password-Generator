@@ -15,10 +15,11 @@ Usage:
     1. Clone the repository:
        git clone https://github.com/your-username/password-generator.git
     2. cd password-generator
-    3. Run the script:
-        python password_generator.py
-    4. Enter the number of letters, symbols, and numbers you want in your password.
-    5. The script will generate and display a secure password.
+    3. Uncomment the version that you want to use in an IDE (Integrated Development Environment) using the shortcut "ctrl+/" or "command+/"
+    4. Run the script:
+        python password_generator.py 
+    5. Enter the number of letters, symbols, and numbers you want in your password.
+    6. The script will generate and display a secure password.
 
 Example Output:
 
